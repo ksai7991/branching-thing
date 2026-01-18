@@ -107,7 +107,7 @@ file_size_limit = "50MiB"
 [storage.buckets.images]
 public = false
 file_size_limit = "50MiB"
-allowed_mime_types = ["image/png", "image/jpeg", "text/plain"]
+allowed_mime_types = ["text/plain"]
 objects_path = "./images"
 
 
