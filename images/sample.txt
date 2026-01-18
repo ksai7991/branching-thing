@@ -1,6 +1,0 @@
-Sample text file.
-
-Used to confirm:
-- objects_path upload
-- metadata overwrite behavior
-- post-seed mutation via API
